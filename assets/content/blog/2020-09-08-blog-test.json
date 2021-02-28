@@ -1,6 +1,6 @@
 {
-  "title": "Blog test",
+  "title": "This is my first netlify cms blog",
   "date": "2020-09-08T06:00:00.000Z",
-  "description": "Ipsa natus aliquid ",
+  "description": "This was actually much easier than I thought it would be ",
   "body": "## some Post\n\n### Some subheader\n\nLorem ipsum dolor websites amet.\n\n> A blockquote from a wise person."
 }
